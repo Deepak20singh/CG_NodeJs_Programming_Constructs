@@ -13,6 +13,7 @@ switch(empcheck){
         break;
     case full:
         emphr=fullhr;
+        
     break;
     default:
         emphr=0;
